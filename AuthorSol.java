@@ -44,12 +44,6 @@ public class AuthorSol {
 		out.close();
 	}
 	
-	static void swap(char[] s, int x, int y) {
-		char temp = s[x];
-		s[x] = s[y];
-		s[y] = temp;
-	}
-	
 	static final Random rnd = new Random();
 	static void shuffleSort(int[] a) { //change this
 		int n = a.length;
