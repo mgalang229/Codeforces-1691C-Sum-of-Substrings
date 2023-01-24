@@ -6,6 +6,34 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.StringTokenizer;
 
+/*
+
+0110110
+
+01
+11
+10
+01
+11
+10
+--
+44
+
+1010101
+
+10
+01
+10
+01
+10
+01
+--
+33
+
+form 2 elevens
+
+ */
+
 public class AuthorSol {
 	
 	public static void main(String[] args) {
